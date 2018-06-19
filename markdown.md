@@ -63,6 +63,34 @@ le texte barré utilise deux ~~tildes~~ (alt gr +2)      like   ~~~hello world~~
   - [x] et là c'est fait, je l'ai fait :lunettes_de_soleil:   ---   Une ligne de séparation (la balise < hr/ > en HTML)
 
 
+  ___
+
+  # les liens
+   
+   * [lien sur un sit / une url](https://www.google.com)
+
+   * [lien vers un auter fichier github](https://github.com/Sabujbarua)
+
+   # les image
+   ![image de site giphy par ex.](https://media.giphy.com/media/AS73s2AddH1l9y4NXD/giphy.gif)
+   ![image](https://i.ytimg.com/vi/CM_9FwfMBrM/hqdefault.jpg)
+
+
+#les tableaux
+
+on sépare les cellules sur la même ligne avec un pipe  (alt gr + 6)
+
+bisson | goût | prix
+--- | --- | ---
+eau | neutre | 0.10e
+coco | plantes | 2.10e
+orangina | orange | 2.10e
+lait | | 1e
+emoticones | :imp: | quoi ?
+
+
+
+
  
 
 [Retour en haut](#haut)
